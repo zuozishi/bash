@@ -9,4 +9,4 @@ echo '正在安装PhpMyAdmin...'
 apt install -y phpmyadmin
 ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 echo '正在配置MySQL...'
-python config-mysql.ps1
+pwsh config-mysql.ps1
