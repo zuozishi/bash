@@ -1,0 +1,4 @@
+use mysql;
+CREATE USER '{0}'@'%' IDENTIFIED BY '{1}';
+grant all privileges on * to '{0}'@'%' identified by '{1}' WITH GRANT OPTION;
+flush privileges;
