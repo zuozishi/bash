@@ -1,5 +1,5 @@
 # Common Bash
-常用的Linux（Ubuntu）部署命令
+常用的Linux（Ubuntu 18.04）部署命令
 
 |   |   |
 | :------ | :------ |
