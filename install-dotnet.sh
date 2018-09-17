@@ -7,7 +7,7 @@ rm packages-microsoft-prod.deb
 echo '正在更新apt...'
 apt update
 echo '正在安装apt https支持...'
-apt install apt-transport-https
+apt install apt-transport-https -y
 echo '正在安装.Net Core SDK...'
-apt install dotnet-sdk-2.1
+apt install dotnet-sdk-2.1 -y
 echo '安装完成'

@@ -5,3 +5,4 @@
 | :------ | :------ |
 | [aliyun-source.sh](./aliyun-source.sh) | 阿里云apt源 |
 | [install-dotnet.sh](./install-dotnet.sh) | 安装.NetCore |
+| [Nginx+MySQL+PhpMyAdmin.sh](./install-dotnet.sh) | 安装Nginx+MySQL+PhpMyAdmin |
